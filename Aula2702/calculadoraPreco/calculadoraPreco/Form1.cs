@@ -48,15 +48,54 @@ namespace calculadoraPreco
             if (cboPagamento.SelectedIndex == 0 || cboPagamento.SelectedIndex == 1)
             {
                 total = valor * quantidade;
+
+                picturePagamento.Image = Properties.Resources.cartao;
+
+                if (MessageBox.Show($"Total:{total:c}", "Pagamento Em Cartão", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes)
+                {
+                    MessageBox.Show("Confirme os dados da venda!", "ATENÇÃO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                    cboPagamento.BackColor = Color.Red;
+                }
+                else
+                {
+                    cboPagamento.Enabled = false;
+                }
             }
             else if (cboPagamento.SelectedIndex == 2)
             {
                 total = valor * quantidade - (valor * quantidade * 10 / 100);
+
+                picturePagamento.Image = Properties.Resources.dinheiro;
+
+                if (MessageBox.Show($"Total:{total:c}", "Pagamento Em Dinheiro", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes)
+                {
+                    MessageBox.Show("Confirme os dados da venda!", "ATENÇÃO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                    cboPagamento.BackColor = Color.Red;
+                }
+                else
+                {
+                    cboPagamento.Enabled = false;
+                }
             }
             else if (cboPagamento.SelectedIndex == 3)
             {
-                total = valor * quantidade + (valor * quantidade * 10 / 100);
-               
+                total = valor * quantidade;
+                double parcela = total / 2;
+
+
+                if (MessageBox.Show($"Total:{parcela:c}", "Pagamento Em Crediario", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes)
+                {
+                    MessageBox.Show("Confirme os dados da venda!", "ATENÇÃO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                    cboPagamento.BackColor = Color.Red;
+                }
+                else
+                {
+                    cboPagamento.Enabled = false;
+                }
+
             }
             lblTotal.Text = $"Total: {total:c}";
         }
@@ -64,6 +103,11 @@ namespace calculadoraPreco
         private void button1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void picturePagamento_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }

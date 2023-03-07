@@ -31,7 +31,7 @@ namespace calculadoraPreco
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.picturePagamento = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.cboPagamento = new System.Windows.Forms.ComboBox();
             this.txtPreco = new System.Windows.Forms.TextBox();
@@ -48,7 +48,7 @@ namespace calculadoraPreco
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picturePagamento)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -65,7 +65,7 @@ namespace calculadoraPreco
             // splitContainer1.Panel1
             // 
             this.splitContainer1.Panel1.BackColor = System.Drawing.Color.White;
-            this.splitContainer1.Panel1.Controls.Add(this.pictureBox2);
+            this.splitContainer1.Panel1.Controls.Add(this.picturePagamento);
             this.splitContainer1.Panel1.Controls.Add(this.pictureBox1);
             // 
             // splitContainer1.Panel2
@@ -82,13 +82,14 @@ namespace calculadoraPreco
             this.splitContainer1.SplitterDistance = 172;
             this.splitContainer1.TabIndex = 0;
             // 
-            // pictureBox2
+            // picturePagamento
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(21, 176);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(133, 107);
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
+            this.picturePagamento.Location = new System.Drawing.Point(21, 176);
+            this.picturePagamento.Name = "picturePagamento";
+            this.picturePagamento.Size = new System.Drawing.Size(133, 107);
+            this.picturePagamento.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picturePagamento.TabIndex = 1;
+            this.picturePagamento.TabStop = false;
             // 
             // pictureBox1
             // 
@@ -230,7 +231,7 @@ namespace calculadoraPreco
             this.splitContainer1.Panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picturePagamento)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -241,7 +242,7 @@ namespace calculadoraPreco
         #endregion
 
         private System.Windows.Forms.SplitContainer splitContainer1;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox picturePagamento;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.TextBox txtPreco;
         private System.Windows.Forms.TextBox txtQtde;

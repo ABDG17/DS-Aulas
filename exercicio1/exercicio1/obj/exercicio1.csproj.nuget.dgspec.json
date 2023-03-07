@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ETEC DS\\Atividades\\exercicio1\\exercicio1\\exercicio1.csproj": {}
+    "C:\\ana\\DS-Aulas\\exercicio1\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "E:\\ETEC DS\\Atividades\\exercicio1\\exercicio1\\exercicio1.csproj": {
+    "C:\\ana\\DS-Aulas\\exercicio1\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ETEC DS\\Atividades\\exercicio1\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "C:\\ana\\DS-Aulas\\exercicio1\\exercicio1\\exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "E:\\ETEC DS\\Atividades\\exercicio1\\exercicio1\\exercicio1.csproj",
+        "projectPath": "C:\\ana\\DS-Aulas\\exercicio1\\exercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\Etec\\.nuget\\packages\\",
-        "outputPath": "E:\\ETEC DS\\Atividades\\exercicio1\\exercicio1\\obj\\",
+        "outputPath": "C:\\ana\\DS-Aulas\\exercicio1\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -36,3 +36,22 @@ E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debu
 E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\ref\calculadoraPreco.dll
 E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.pdb
 E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.genruntimeconfig.cache
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.AssemblyReference.cache
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Form1.resources
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Properties.Resources.resources
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.GenerateResource.cache
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfoInputs.cache
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfo.cs
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.CoreCompileInputs.cache
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.exe
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.deps.json
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.json
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.dev.json
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.dll
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\ref\calculadoraPreco.dll
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.pdb
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.dll
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\ref\calculadoraPreco.dll
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.pdb
+C:\ana\DS-Aulas\Aula2702\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.genruntimeconfig.cache
