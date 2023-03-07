@@ -1,0 +1,38 @@
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.exe
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.deps.json
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.json
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.dev.json
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.dll
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\ref\calculadoraPreco.dll
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.pdb
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Form1.resources
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Properties.Resources.resources
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfoInputs.cache
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfo.cs
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.dll
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\ref\calculadoraPreco.dll
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.pdb
+C:\Users\Etec\Desktop\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.genruntimeconfig.cache
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.exe
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.deps.json
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.json
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.runtimeconfig.dev.json
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.dll
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\ref\calculadoraPreco.dll
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\bin\Debug\net5.0-windows\calculadoraPreco.pdb
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.AssemblyReference.cache
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Form1.resources
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.Properties.Resources.resources
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.GenerateResource.cache
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfoInputs.cache
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.AssemblyInfo.cs
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.csproj.CoreCompileInputs.cache
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.dll
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\ref\calculadoraPreco.dll
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.pdb
+E:\ETEC DS\Atividades\DS I\aula 27-02\calculadoraPreco\calculadoraPreco\obj\Debug\net5.0-windows\calculadoraPreco.genruntimeconfig.cache

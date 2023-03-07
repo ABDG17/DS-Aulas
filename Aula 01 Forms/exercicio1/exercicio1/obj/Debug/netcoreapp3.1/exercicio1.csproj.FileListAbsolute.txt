@@ -1,0 +1,36 @@
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Form1.resources
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Form2.resources
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Properties.Resources.resources
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\Etec\Desktop\aula 01\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Form1.resources
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Form2.resources
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.Properties.Resources.resources
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.GenerateResource.cache
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache
+E:\ETEC DS\Materiais de apoio\DS I\Aula 01 Forms\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.AssemblyReference.cache
